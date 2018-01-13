@@ -1,6 +1,6 @@
 # LEGO Mindstorms Cosplay Dress#
 
-##Dragon Con 2017##
+## Dragon Con 2017 ##
 Designed and programmed by [Amie Dansby](http://www.amiedd.com)
 
 * Ingredients *
